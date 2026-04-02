@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "HRKneverdies.aternos.me",
-    "port": 15069,
+    "port": 20428,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "Harel is the Goat",
