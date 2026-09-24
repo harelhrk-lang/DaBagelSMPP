@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DaBigBagelMuncher",
+    "username": "DaBigPotatoMuncher",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HRKneverdies.aternos.me",
-    "port": 20428,
-    "version": "1.21.11",
+    "ip": "potato-steal.aternos.me",
+    "port": 34780,
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
